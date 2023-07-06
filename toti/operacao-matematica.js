@@ -1,0 +1,1 @@
+console.log("Resultado = ", (1000*3));
